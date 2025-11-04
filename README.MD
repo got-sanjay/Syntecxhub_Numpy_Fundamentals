@@ -10,3 +10,8 @@ This project helps beginners understand **array manipulation, mathematical opera
 ```bash
 git clone https://github.com/got-sanjay/Syntecxhub_Numpy_Fundamentals.git
 cd Syntecxhub_Numpy_Fundamentals
+
+python -m venv NumVenv
+& .\NumVenv\Scripts\Activate.ps1
+
+pip install -r requirement.txt
