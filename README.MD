@@ -1,0 +1,12 @@
+# NUMPY FUNDAMENTAL
+
+### 🚀 Overview
+**NumPy Fundamentals** is a hands-on Python project designed to demonstrate the fundamentals of **NumPy**, one of the most powerful numerical computing libraries in Python.  
+This project helps beginners understand **array manipulation, mathematical operations, reshaping, broadcasting, and performance comparisons** between NumPy and pure Python.
+
+---
+## 🧑‍💻 Usage
+### 1. Clone this repository
+```bash
+git clone https://github.com/got-sanjay/Syntecxhub_Numpy_Fundamentals.git
+cd Syntecxhub_Numpy_Fundamentals
