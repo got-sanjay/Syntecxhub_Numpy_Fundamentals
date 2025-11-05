@@ -8,6 +8,9 @@ This project helps beginners understand **array manipulation, mathematical opera
 - Array creation (`np.array`, `np.arange`, `np.linspace`, `np.random`)
 - Indexing and slicing
 - Mathematical operations and statistics
+- Apply reshaping and broadcasting techniques
+- Save and load NumPy arrays into CSV format
+
 
 ## Usage
 ### 1. Clone this repository
